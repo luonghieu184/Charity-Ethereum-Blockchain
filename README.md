@@ -2,9 +2,9 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
+* [Ý tưởng đề tài](#Ý-tưởng-đề-tài)
+* [Cách hoạt động của ứng dụng](#cách-hoạt-động-của-ứng-dụng)
+* [Ngôn ngữ lập trình](#Ngôn-ngữ-lập-trình)
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
 * [Run Docker](#run-docker)
@@ -27,7 +27,7 @@ Sẽ có một hợp đồng đảm nhiệm trung tâm để thực hiện chấ
 * Mọi người đóng góp đồng ý với yêu cầu và sự đồng thuận đã tạo
 * ĐIỀU QUAN TRỌNG: CÁ NHÂN HAY TỔ CHỨC NÀO MUỐN TẠO CHIẾN DỊCH => ĐỀ PHẢI XÁC MINH DANH TÍNH
 
-### Xây dựng trên
+### Ngôn ngữ lập trình
 
 * [Bootstrap](https://getbootstrap.com)
 * [JQuery](https://jquery.com)
@@ -44,7 +44,6 @@ Từng bước theo bước
 
 ### Prerequisites
 
-C
 * npm
 ```sh
 npm install npm@3.5.2
