@@ -1,6 +1,6 @@
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## Mục lục
 
 * [Ý tưởng đề tài](#Ý-tưởng-đề-tài)
 * [Cách hoạt động của ứng dụng](#cách-hoạt-động-của-ứng-dụng)
@@ -45,7 +45,7 @@ Từng bước theo bước
 ### Prerequisites
 * node
 ```sh
-node install npm@latest
+node install node@latest
 ```
 * npm
 ```sh
