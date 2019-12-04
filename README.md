@@ -45,7 +45,7 @@ Từng bước theo bước
 ### Prerequisites
 * node
 ```sh
-n install npm@latest
+node install npm@latest
 ```
 * npm
 ```sh
