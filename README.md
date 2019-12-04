@@ -43,7 +43,10 @@ Sẽ có một hợp đồng đảm nhiệm trung tâm để thực hiện chấ
 Từng bước theo bước
 
 ### Prerequisites
-
+* node
+```sh
+n install npm@latest
+```
 * npm
 ```sh
 npm install npm@3.5.2
